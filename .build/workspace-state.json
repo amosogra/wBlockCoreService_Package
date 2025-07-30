@@ -1,0 +1,95 @@
+{
+  "object" : {
+    "artifacts" : [
+
+    ],
+    "dependencies" : [
+      {
+        "basedOn" : null,
+        "packageRef" : {
+          "identity" : "punycodeswift",
+          "kind" : "remoteSourceControl",
+          "location" : "https://github.com/gumob/PunycodeSwift.git",
+          "name" : "Punycode"
+        },
+        "state" : {
+          "checkoutState" : {
+            "revision" : "30a462bdb4398ea835a3585472229e0d74b36ba5",
+            "version" : "3.0.0"
+          },
+          "name" : "sourceControlCheckout"
+        },
+        "subpath" : "PunycodeSwift"
+      },
+      {
+        "basedOn" : null,
+        "packageRef" : {
+          "identity" : "safariconverterlib",
+          "kind" : "remoteSourceControl",
+          "location" : "https://github.com/AdguardTeam/SafariConverterLib.git",
+          "name" : "ContentBlockerConverter"
+        },
+        "state" : {
+          "checkoutState" : {
+            "branch" : "9e431a2",
+            "revision" : "9e431a240a03fff89be1387cab915caaa2203fa7"
+          },
+          "name" : "sourceControlCheckout"
+        },
+        "subpath" : "SafariConverterLib"
+      },
+      {
+        "basedOn" : null,
+        "packageRef" : {
+          "identity" : "swift-argument-parser",
+          "kind" : "remoteSourceControl",
+          "location" : "https://github.com/apple/swift-argument-parser",
+          "name" : "swift-argument-parser"
+        },
+        "state" : {
+          "checkoutState" : {
+            "revision" : "41982a3656a71c768319979febd796c6fd111d5c",
+            "version" : "1.5.0"
+          },
+          "name" : "sourceControlCheckout"
+        },
+        "subpath" : "swift-argument-parser"
+      },
+      {
+        "basedOn" : null,
+        "packageRef" : {
+          "identity" : "swift-psl",
+          "kind" : "remoteSourceControl",
+          "location" : "https://github.com/ameshkov/swift-psl",
+          "name" : "swift-psl"
+        },
+        "state" : {
+          "checkoutState" : {
+            "revision" : "d53f461a033fff1f6af21e2af2c1896e35941d09",
+            "version" : "1.1.47"
+          },
+          "name" : "sourceControlCheckout"
+        },
+        "subpath" : "swift-psl"
+      },
+      {
+        "basedOn" : null,
+        "packageRef" : {
+          "identity" : "zipfoundation",
+          "kind" : "remoteSourceControl",
+          "location" : "https://github.com/weichsel/ZIPFoundation.git",
+          "name" : "ZIPFoundation"
+        },
+        "state" : {
+          "checkoutState" : {
+            "revision" : "02b6abe5f6eef7e3cbd5f247c5cc24e246efcfe0",
+            "version" : "0.9.19"
+          },
+          "name" : "sourceControlCheckout"
+        },
+        "subpath" : "ZIPFoundation"
+      }
+    ]
+  },
+  "version" : 6
+}
