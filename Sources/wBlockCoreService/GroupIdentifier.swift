@@ -33,6 +33,6 @@ public final class GroupIdentifier {
     /// Starting from XCode 16.3 this is no longer necessary and we can use the
     /// same group ID for iOS and macOS.
     private init() {
-        value = "group.skula.wBlock"
+        value = "group.syferlab.wBlock"
     }
 }

@@ -21,9 +21,9 @@ public class UserScriptManager: ObservableObject {
     @Published public var updateAlertMessage = ""
     
     private let userScriptsKey = "userScripts"
-    private let sharedContainerIdentifier = "group.skula.wBlock"
+    private let sharedContainerIdentifier = "group.syferlab.wBlock"
     private let groupUserDefaults: UserDefaults
-    private let logger = Logger(subsystem: "com.skula.wBlock", category: "UserScriptManager")
+    private let logger = Logger(subsystem: "com.syferlab.wBlock", category: "UserScriptManager")
     
     private let defaultUserScripts: [(name: String, url: String)] = [
         ("Return YouTube Dislike", "https://raw.githubusercontent.com/Anarios/return-youtube-dislike/main/Extensions/UserScript/Return%20Youtube%20Dislike.user.js"),
