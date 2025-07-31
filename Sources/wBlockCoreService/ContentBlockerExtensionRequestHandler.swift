@@ -85,7 +85,7 @@ public enum ContentBlockerExtensionRequestHandler {
     /// - Returns: An NSError object with the specified parameters.
     private static func createError(code: Int, message: String) -> NSError {
         return NSError(
-            domain: "skula.wBlock",
+            domain: "syferlab.wBlock",
             code: code,
             userInfo: [NSLocalizedDescriptionKey: message]
         )
