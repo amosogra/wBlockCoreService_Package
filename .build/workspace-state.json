@@ -26,13 +26,13 @@
         "packageRef" : {
           "identity" : "safariconverterlib",
           "kind" : "remoteSourceControl",
-          "location" : "https://github.com/AdguardTeam/SafariConverterLib.git",
+          "location" : "https://github.com/amosogra/SafariConverterLib.git",
           "name" : "ContentBlockerConverter"
         },
         "state" : {
           "checkoutState" : {
-            "branch" : "9e431a2",
-            "revision" : "9e431a240a03fff89be1387cab915caaa2203fa7"
+            "revision" : "1345fa10a26a8ccc12403d531f4acb778372c5e9",
+            "version" : "2.0.0"
           },
           "name" : "sourceControlCheckout"
         },
@@ -41,32 +41,15 @@
       {
         "basedOn" : null,
         "packageRef" : {
-          "identity" : "swift-argument-parser",
-          "kind" : "remoteSourceControl",
-          "location" : "https://github.com/apple/swift-argument-parser",
-          "name" : "swift-argument-parser"
-        },
-        "state" : {
-          "checkoutState" : {
-            "revision" : "41982a3656a71c768319979febd796c6fd111d5c",
-            "version" : "1.5.0"
-          },
-          "name" : "sourceControlCheckout"
-        },
-        "subpath" : "swift-argument-parser"
-      },
-      {
-        "basedOn" : null,
-        "packageRef" : {
           "identity" : "swift-psl",
           "kind" : "remoteSourceControl",
-          "location" : "https://github.com/ameshkov/swift-psl",
+          "location" : "https://github.com/amosogra/swift-psl",
           "name" : "swift-psl"
         },
         "state" : {
           "checkoutState" : {
-            "revision" : "d53f461a033fff1f6af21e2af2c1896e35941d09",
-            "version" : "1.1.47"
+            "revision" : "3e5491ff4f515c1b4599ee5c993d5a7038081f3e",
+            "version" : "2.0.0"
           },
           "name" : "sourceControlCheckout"
         },

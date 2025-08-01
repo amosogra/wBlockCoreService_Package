@@ -17,7 +17,7 @@ let package = Package(
     dependencies: [
         .package(
             url: "https://github.com/amosogra/SafariConverterLib.git",
-            exact: "9e431a2"
+            exact: "2.0.0"
         ),
         .package(
             url: "https://github.com/weichsel/ZIPFoundation.git",
