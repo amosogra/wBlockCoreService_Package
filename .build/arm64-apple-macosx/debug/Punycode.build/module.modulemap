@@ -1,0 +1,4 @@
+module Punycode {
+    header "/Users/amos/Documents/GitHub/wBlockCoreService_Package/.build/arm64-apple-macosx/debug/Punycode.build/Punycode-Swift.h"
+    requires objc
+}

@@ -1,0 +1,4 @@
+module wBlockCoreService {
+    header "/Users/amos/Documents/GitHub/wBlockCoreService_Package/.build/arm64-apple-macosx/debug/wBlockCoreService.build/wBlockCoreService-Swift.h"
+    requires objc
+}
