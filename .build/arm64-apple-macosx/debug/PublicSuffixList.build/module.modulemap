@@ -1,4 +1,0 @@
-module PublicSuffixList {
-    header "/Users/amos/Documents/GitHub/wBlockCoreService_Package/.build/arm64-apple-macosx/debug/PublicSuffixList.build/PublicSuffixList-Swift.h"
-    requires objc
-}

@@ -1,4 +1,0 @@
-module ZIPFoundation {
-    header "/Users/amos/Documents/GitHub/wBlockCoreService_Package/.build/arm64-apple-macosx/debug/ZIPFoundation.build/ZIPFoundation-Swift.h"
-    requires objc
-}

@@ -1,4 +1,0 @@
-module FilterEngine {
-    header "/Users/amos/Documents/GitHub/wBlockCoreService_Package/.build/arm64-apple-macosx/debug/FilterEngine.build/FilterEngine-Swift.h"
-    requires objc
-}
